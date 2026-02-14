@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="StationMeteo.App/StationMeteo.App.csproj" />
-  <Project Path="StationMeteo.Metier/StationMeteo.Metier.csproj" />
-</Solution>
